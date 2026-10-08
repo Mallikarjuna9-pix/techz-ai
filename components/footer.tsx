@@ -55,7 +55,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 border-t border-slate-800 pt-8 text-center text-sm text-slate-500">
-          <p>© 2025 TECHZ AI. Built for engineering excellence. MGS.AJIET</p>
+          <p>© 2026 TECHZ AI. Built for engineering excellence. MGS.AJIET</p>
         </div>
       </div>
     </footer>
